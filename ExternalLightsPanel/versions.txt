@@ -1,8 +1,8 @@
-ExternalLightsBlink_v1.0.0.bin|BUGS
-ExternalLightsBlink_v0.1.1.bin|BUGS
-ExternalLightsBlink_v0.1.0.bin|BUGS
-ExternalLightsBlink_v0.0.9.bin|BUGS
-ExternalLightsBlink_v0.0.8.bin|BUGS
+ExternalLightsBlink_v1.0.0.bin|BUGGY
+ExternalLightsBlink_v0.1.1.bin|CURRENT
+ExternalLightsBlink_v0.1.0.bin|LEGACY
+ExternalLightsBlink_v0.0.9.bin|LEGACY
+ExternalLightsBlink_v0.0.8.bin|LEGACY
 ExternalLightsBlink_v0.0.7.bin|BUGS
 ExternalLightsBlink_v0.0.6.bin|BUGS
 ExternalLightsBlink_v0.0.5.bin|BUGS
